@@ -1,3 +1,3 @@
 # node.js
 my first node.js demo
-node.js �Ǻܰ��ģ�
+node.js 是很棒的！
